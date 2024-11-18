@@ -12,7 +12,7 @@
 
 ***
 
-I am a a Frontend Developer specilising in React.js, TypeScript, Node.js, and Tailwind CSS, with complementary skills in testing libraries like Jest and Cypress, as well as UI/UX design using Figma. My current interests include learning advanced concepts in React and Next.js. I have 4 years of experience, including freelance projects and a bootcamp in software engineering, and I have built applications for the e-commerce, tech sales, and customer service industries.
+I am a Frontend Developer specilising in React.js, TypeScript, Node.js, and Tailwind CSS, with complementary skills in testing libraries like Jest and Cypress, as well as UI/UX design using Figma. My current interests include learning advanced concepts in React and Next.js. I have 4 years of experience, including freelance projects and a bootcamp in software engineering, and I have built applications for the e-commerce, tech sales, and customer service industries.
 
 My background in B2B tech sales has honed my ability to communicate complex technical solutions to diverse audiences, tailor products to meet customer needs, and troubleshoot challenges efficiently. I am passionate about making technology accessible, automating workflows, and creating impactful user experiences that bridge business needs with technical innovation.
 
